@@ -12,8 +12,8 @@ pipeline {
         PRJ_DIR='/var/www/plant-shop'
         //SLACK=credentials('token')
         //CHANNEL_ID=""
-        GIT_URL="git@github.com:AnastasiyaGapochkina01/plant-shop-m2.git"
-        HOST='18.219.95.242'
+        GIT_URL="git@github.com:AnastasiyaGapochkina01/StoreShop.git"
+        HOST='18.222.93.153'
     }
 
     stages {
